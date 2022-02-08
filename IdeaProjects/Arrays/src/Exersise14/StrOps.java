@@ -1,7 +1,7 @@
 package Exersise14;
 
 import java.util.Locale;
-
+//Использование некоторых методов класса String
 public class StrOps {
     public static void main(String[] args) {
         String str1 = "Java - лидер Интернета!";

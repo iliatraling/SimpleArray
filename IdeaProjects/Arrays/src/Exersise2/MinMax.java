@@ -1,5 +1,5 @@
 package Exersise2;
-
+// Нахождение минимального и максимального элемента массива
 import java.util.Arrays;
 
 public class MinMax {

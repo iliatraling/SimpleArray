@@ -1,5 +1,5 @@
 package Exersise16;
-
+// Использование метода substring()
 public class SubStr {
     public static void main(String args[]) {
         String orgStr = "Java - двигатель Интернета.";

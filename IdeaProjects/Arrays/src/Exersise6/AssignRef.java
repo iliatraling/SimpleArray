@@ -1,5 +1,5 @@
 package Exersise6;
-
+// Присваивание ссылок на массивы
 public class AssignRef {
     public static void main(String args[]) {
         int i;

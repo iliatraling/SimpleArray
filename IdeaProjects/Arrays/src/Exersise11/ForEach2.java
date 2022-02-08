@@ -1,5 +1,5 @@
 package Exersise11;
-
+// Использование цикла for each для обработки элементов двумерного массива
 public class ForEach2 {
     public static void main(String[] args) {
         int sum = 0;

@@ -1,5 +1,5 @@
 package Exersise13;
-
+// Использование класса String
 public class StringDemo {
     public static void main(String args[]) {
         // Различные способы объявления строк

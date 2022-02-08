@@ -1,5 +1,5 @@
 package Exersise1;
-
+//Демонстрация использования одномерного массива
 public class ArrayDemo {
     public static void main(String[] args) {
         int sample[] = new int[10];

@@ -1,5 +1,5 @@
 package Exersise8;
-
+// Использование класса Arrays для копирования массивов
 import java.util.Arrays;
 
 public class UseArrays {

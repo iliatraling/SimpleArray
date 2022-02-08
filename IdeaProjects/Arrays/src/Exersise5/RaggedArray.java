@@ -1,5 +1,5 @@
 package Exersise5;
-
+//Использование выделения памяти по второму индексу массива
 public class RaggedArray {
     public static void main(String[] args) {
         int[][] trips = new int[7][];

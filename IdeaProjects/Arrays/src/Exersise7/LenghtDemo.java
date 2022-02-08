@@ -1,5 +1,5 @@
 package Exersise7;
-
+// Использование переменной экземпляра length
 public class LenghtDemo {
     public static void main(String args[]) {
         int list[] = new int[10];

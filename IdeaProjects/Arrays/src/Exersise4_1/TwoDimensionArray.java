@@ -1,5 +1,5 @@
 package Exersise4_1;
-
+//Использование двумерного массива.
 public class TwoDimensionArray {
     public static void main(String[] args) {
         int[][] table = new int[3][4];

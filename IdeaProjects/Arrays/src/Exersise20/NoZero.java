@@ -1,5 +1,5 @@
 package Exersise20;
-
+//Предотвращение деления на нуль с помощью оператора?
 public class NoZero {
     public static void main(String[] args) {
         System.out.println("Делим 100: ");

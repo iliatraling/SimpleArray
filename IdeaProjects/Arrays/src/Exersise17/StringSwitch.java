@@ -1,5 +1,5 @@
 package Exersise17;
-
+// Использование строк для управления оператором switch
 import java.util.Scanner;
 
 public class StringSwitch {

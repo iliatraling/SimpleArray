@@ -1,5 +1,5 @@
 package Exersise3;
-
+// Демонстрация превышения границ массива
 public class ArrayErr {
     public static void main(String[] args) {
         int sample[] = new int[10];

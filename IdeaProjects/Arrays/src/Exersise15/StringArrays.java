@@ -1,5 +1,5 @@
 package Exersise15;
-
+// Демонстрация использования массивов строк
 public class StringArrays {
     public static void main(String args[]) {
         String strs[] = {"Эта", "строка", "является", "тестом."};
